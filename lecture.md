@@ -20,3 +20,62 @@ We were also sharing a studio with a photographer that had some giant epson prin
 [SE Posters]
 
 So, That's where I started with my "sustainable designing" -- it was 2006 and 2007 and I was 1. using my visual form giving skills to try and make messages more "beautiful" and "digestable"; and 2. doing process/paper research to pick the "least bad" options for physical object output.
+
+This was more or less in alignment with "best practices" of Graphic Designing -- you pick the right materials, and otherwise, everything stays the same.
+
+[MICA]
+
+## Grad School
+
+At some point, that started to frustrate me; and I thought that maybe a graduate school experience would let me explore this in more ways. I ended up here at MICA, and while the program itself didn't have a focus on sustainability it was focused on the idea that a designer might do more than merely put a superficial gloss on other people's content... 
+
+I did a lot of different kinds of work -- web, print, more conceptual exercises.
+
+[what can I show?]
+
+A lot of my work dealt with systems, with using simple programming to help generate or sketch solutions, to reducing inputs but maximizing outputs... And then other things directly dealt with sustainability. At first these things stayed in the superficial category -- either directly being about visualizing sustainability concepts
+
+[posters for triple bottom line understanding?]
+
+Or experimenting with how to make visuals that somehow through their aesthetics were "more sustgainable"
+
+[Greenest green]
+
+[Sustainable Icon Set]
+
+And via those projects I came to actually phrase the question: what does sustainable deisgn look like?
+
+## What does sustainable graphic design look like?
+
+Posing this question to myself, I came up with sort of 4 main answers:
+1. It looks the same  
+   meaning that aesthetics aren't really important, its just that you make it with the right materials and the right ideals.
+2. It looks "eco friendly"  
+   meaning that it fully embraces its environmentalist connections and you don't hide whatever material or process restrictions are required for maximum eco/society friendliness
+3. It looks progressive/futuristic  
+   these ideas are about changing everything and looking to a utopian future; the designs aesthetics should somehow reflect this?
+4. It does not exist.  
+   meaning initially that there really just isn't such a thing as sustainable designing … and that this was a futile exercise
+
+So, I had made work that attempted to live in these first three areas. for sure.
+
+[cardboard table?]
+
+But that 4th option stuck with me. Sustainable Graphic Design does not exist. What if instead of seeing this as a negative, a hopeless sort of view, I instead took it as a prompt? a conceptual challenge?
+
+So instead I started thinking about "sustainable graphic design does not exist" more as a call to action -- how can we bring things together to have them communicate a specific message; but then have all the parts go back to whatever they were before???
+
+[Zine images]
+
+I first tried using some old zines we had made way to many of as substrate for new work -- as a way into this idea.
+
+And then I arrived on this other idea...
+
+I had been trying to visualize the interconnections between the books and essays and such I had been using in my research. Upon presenting this in critiques I was told that it was boring and sort of intellectually interesting but not useful or visually worthwhile. Not willing to let it go, I decided to prove the critic wrong and kept working on how to make the idea useful.
+
+This led me to do more writing and more cataloging and organzing of the objects of my research...
+
+I ended up writing this sort of manifesto; and then created this sculpture as poster...
+
+[Sustainabilitist Principles]
+
