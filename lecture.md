@@ -11,6 +11,10 @@ In 2006 I found myself working with a group of activists, web developers and ent
 
 ![BDP](https://jubilee-live.flickr.com/1103/639842411_345cfeaf3d_o.jpg)
 
+![BDP](http://kristian.bjornard.com/sites/kristian.bjornard.com/files/imagecache/portfolio-work-giant/designwork/print/main/BDP_front.jpg) & ![BDP2](http://kristian.bjornard.com/sites/kristian.bjornard.com/files/imagecache/portfolio-work-giant/designwork/print/2nd/BDP_back.jpg)
+
+![Books for the Future](http://kristian.bjornard.com/sites/kristian.bjornard.com/files/imagecache/portfolio-work-giant/designwork/print/main/Trees4Future.jpg)
+
 The first real print project I did where print process and paper selection were able to be "sustainably" focused was the Minneapolis Green Roof guide. The minneapolis green roof group contained some members that bought biodiesel from us, so we started talking to them about a website that could provide a map of all the greenroofs and then data about each project. 
 
 - ![TC Green Roof Council](http://kristian.bjornard.com/sites/kristian.bjornard.com/files/imagecache/portfolio-work-giant/designwork/identity/2nd/logo-MNGRC1.png)
