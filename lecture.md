@@ -50,14 +50,21 @@ And via those projects I came to actually phrase the question: what does sustain
 ![What Does SGD look like?](https://jubilee-live.flickr.com/2789/4426654518_43caa7cd48_o.jpg)
 
 Posing this question to myself, I came up with sort of 4 main answers:
-1. It looks the same  
-   meaning that aesthetics aren't really important, its just that you make it with the right materials and the right ideals.
-2. It looks "eco friendly"  
+1. It looks "eco friendly"  
    meaning that it fully embraces its environmentalist connections and you don't hide whatever material or process restrictions are required for maximum eco/society friendliness
-3. It looks progressive/futuristic  
-   these ideas are about changing everything and looking to a utopian future; the designs aesthetics should somehow reflect this?
+![SGD looks ecofriendly](https://jubilee-live.flickr.com/2709/4433647723_e1f5e5d1d0_o.jpg)
+
+2. It looks the same  
+   meaning that aesthetics aren't really important, its just that you make it with the right materials and the right ideals.
+![SGD looks the same](https://jubilee-live.flickr.com/4035/4434422776_57236c963c_o.jpg)
+
+3. It looks innovative/progressive/futuristic  
+   these ideas are about changing everything and looking to a utopian future; the designs aesthetics should somehow reflect the innovative nature of the work.
+![SGD looks innovative](https://jubilee-live.flickr.com/4064/4434425136_9abc14cc3c_o.jpg)
+
 4. It does not exist.  
    meaning initially that there really just isn't such a thing as sustainable designing … and that this was a futile exercise
+![SGD does not exist](https://jubilee-live.flickr.com/4058/4436521303_90754d3410_o.jpg)
 
 So, I had made work that attempted to live in these first three areas. for sure.
 
