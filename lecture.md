@@ -79,3 +79,33 @@ I ended up writing this sort of manifesto; and then created this sculpture as po
 
 [Sustainabilitist Principles]
 
+## To get to somehow:
+
+What signs on substrates are "sustainable" and which aren't? Does it matter about the signs the substrates themselves? is it design that supports/communicates "sustainability" regardless?
+
+Something like a first things first manifesto; but for climate change related ethics...
+
+John Ehrenfeld states in the book Flourishing that "the key to do something about sustainability is that you first have to say what it is you want to sustain." To define sustainable graphic design we must first define what it is we are sustaining. Ehrenfeld wants to sustain that "all humans and other life should flourish." (Pg 23 in flourishing). Using Ehrenfeld's thinking, Sustainable graphic design is then design made for clients that believe all life should flourish; design made to promote messages about sustainability-as-flourishing; and design made with materials and processes that promote and sustain the state of all life flourishing too.
+
+Bruce Mau phrases this similarly in his writings around the Massive Change project: Our project is the welfare of all life as a practical objective.
+
+SGD is graphic design in support of all life flourishing... Sustainable design is then not just one fixed thing; all things flourishing might need to take a lot of forms; adapt to a lot of different kinds of situations...
+
+The welfare of all life is not a traditional goal of business, culture, and design in our current milieu.
+
+[Slides from my various design essay days???]
+
+Sustainable design's form must declare that "humans and all life should flourish." How might an aesthetic or form convey this message? What aesthetic or form conveys this message? Are there visual choices that are more sustainable?
+
+To call a work of design beautiful is to recognize it as a rendition of values critical to our flourishing. A transubstantiation of our individual ideals in material medium.
+-- Alain de Botton, Architecture of Happiness
+
+AdB provides some insights for how we might integrate sustainability & design: if beauty in design embodies one's values then non-sustainable design would be non-beautiful design -- any design not looking out for the welfare of all life is bad, ugly design. Only design that inspires sustainable ideals counts as beautiful.
+
+Sustainable design: Beautiful things; Sentimental things; Utilitarian things... (there are those categories of things; and then there is everything else. Everything else need not exist). Sustainable design needs to be the "prettiest" stuff; the most meaningful stuff; and the most functional stuff -- preferably all of the above. BUT! beauty; meaning; these are subject to context (beauty is in the eye of the beholder after all?) -- does the context of "the welfare of all life" help people see things the same way? -- does this mean that there is no singular "sustainable" design solution?
+
+Nature does not typically solve design problems with singular solutions. There are usually many overlapping and resilient ways things work out in or world's ecosystems. So: sustainability may then have many definitions; sustainable design might provide many styles, aesthetics, processes, and methods...
+
+Design has helped to change and shape the world (for better or for worse) in gigantic, important ways. Whatever happens next, the world will not be like it is today -- either because we do something to make it better for the welfare of all life; or because we just keep on keeping on as is and destroy all life.
+
+
