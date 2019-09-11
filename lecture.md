@@ -37,8 +37,6 @@ So, That's where I started with my "sustainable designing" -- it was 2006 and 20
 
 This was more or less in alignment with "best practices" of Graphic Designing -- you pick the right materials, and otherwise, everything stays the same.
 
-[MICA]
-
 ## Grad School
 
 At some point, that started to frustrate me; and I thought that maybe a graduate school experience would let me explore this in more ways. I ended up here at MICA, and while the program itself didn't have a focus on sustainability it was focused on the idea that a designer might do more than merely put a superficial gloss on other people's content... 
