@@ -9,6 +9,8 @@ I'm trying to think about this from the frame of "what do you want to sustain" a
 
 In 2006 I found myself working with a group of activists, web developers and entrepeneurs. We wanted to make and sell biodiesel, convert old disesel to run on waste vegetable oil, educate the public about weening off fossil fuels. It turned out that many of the people and orgs we partnered with to promote biodiesel and bicycling and the like were in need of web and communication design services. So we also built websites and started working on print graphics and identities and the like. 
 
+![BDP](https://jubilee-live.flickr.com/1103/639842411_345cfeaf3d_o.jpg)
+
 The first real print project I did where print process and paper selection were able to be "sustainably" focused was the Minneapolis Green Roof guide. The minneapolis green roof group contained some members that bought biodiesel from us, so we started talking to them about a website that could provide a map of all the greenroofs and then data about each project. 
 
 After starting to work on that, it turned out that an important conference was happening in the twin cities, and so they wanted a print guide to go with it. It meant that we had to find a printer that used soy inks, and that would help us order the best possible paper stock at the time... we found a smaller printer about an hour south of Minneapolis, and then ended up driving down to do the pickup ourselves for 1) speed, and 2) to make sure the footprint of delivery was minimized -- we used a biodiesel VW to do the pickup and deliveries.
