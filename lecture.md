@@ -33,6 +33,8 @@ This was more or less in alignment with "best practices" of Graphic Designing --
 
 At some point, that started to frustrate me; and I thought that maybe a graduate school experience would let me explore this in more ways. I ended up here at MICA, and while the program itself didn't have a focus on sustainability it was focused on the idea that a designer might do more than merely put a superficial gloss on other people's content... 
 
+![Urban Forest Project?](http://kristian.bjornard.com/sites/kristian.bjornard.com/files/imagecache/portfolio-work-giant/designwork/print/main/Poster-eatexcrete1.jpg)
+
 I did a lot of different kinds of work -- web, print, more conceptual exercises.
 
 (Systems Ezplorations)
@@ -43,21 +45,42 @@ I did a lot of different kinds of work -- web, print, more conceptual exercises.
 - ![The Bands](https://jubilee-live.flickr.com/3329/3226375262_875c82f5ab_o.jpg)
 - ![Bands that end with S](https://jubilee-live.flickr.com/3502/3277457670_570c674577_o.jpg)
 - ![Band names containing Z](https://jubilee-live.flickr.com/3320/3277457632_5f470df707_o.jpg)
+- post on these posters: http://kristian.bjornard.com/work/print/itunes-library-posters-bands-plural-bands-and-z-bands.html
 
+- That C2C poster too?
 
 A lot of my work dealt with systems, with using simple programming to help generate or sketch solutions, to reducing inputs but maximizing outputs... And then other things directly dealt with sustainability. At first these things stayed in the superficial category -- either directly being about visualizing sustainability concepts
 
-[posters for triple bottom line understanding?]
+I kept a blog for a while trying to document ideas and things I'd found and tried
 
-Or experimenting with how to make visuals that somehow through their aesthetics were "more sustgainable"
+![Better living with sustainability: a website/blog?](http://www.thesustainabilitist.com/img/visuals/4857362271_40e9f1ffb6_b.jpg)
 
-[Greenest green]
+I also tried really simplifying my explanation for how to understand sustainability.
 
-[Sustainable Icon Set]
+- ![Understanding Sustainability: Actions](http://www.thesustainabilitist.com/img/visuals/understandingsust-action.jpg)
+- ![Understanding Sustainability: Philosophy](http://www.thesustainabilitist.com/img/visuals/understandingsust-philosophy.jpg)
+
+Or experimenting with how to make visuals that somehow through their aesthetics were "more sustainable." For instance, is there someway to determine what the "greenest" -- meaning most signifying of environmentalist intent -- color is?
+
+![The Greenest Green v1.0](https://jubilee-live.flickr.com/4076/4761478042_41e69d26ee_o.jpg)
+
+![The Greenest green v2.0](http://www.thesustainabilitist.com/img/visuals/greenestgreen.jpg)
+
+How do I visualize all these things in new icons now using that color? using a limited toolkit of materials?
+
+![Sustainable Icon Set](http://www.thesustainabilitist.com/img/sustkop.png)
+
+What else signals these ideas?
+
+![Better Living Through Sustainability](https://jubilee-live.flickr.com/4073/4761476396_667d483701_o.jpg)
+
+![Building a better future](https://jubilee-live.flickr.com/4078/4761476146_841d75e73a_o.jpg)
 
 And via those projects I came to actually phrase the question: what does sustainable deisgn look like?
 
 ## What does sustainable graphic design look like?
+
+![what does SGD look like #1](http://www.thesustainabilitist.com/img/visuals/whatdoessustgdlooklike.jpg)
 
 ![What Does SGD look like?](https://jubilee-live.flickr.com/2789/4426654518_43caa7cd48_o.jpg)
 
@@ -108,6 +131,8 @@ I did manage to make a business card that utilized this thinking as well:
 
 I would stamp my info over someone elses...
 
+And this website did come out of that... http://www.thesustainabilitist.com
+
 ## Next steps?
 
 I get to the end of grad school, high on my ingenous success... and then, fuck, I don't have any outlets for these ideas anymore -- I mean, I go back to doing client projects like magazine and websites. And while I keep trying to make them materially better, or offset their energy with renewable energy, or utilize free cultural resources so as much is reuseable as possible, it just isn't enough. 
@@ -134,6 +159,13 @@ And then I did reuse some of these ideas, something becomes a future book cover,
 I even end up turning these ideas into class projects; all the presentations I've done in the last 8 years have used the same base templates and folder of images...
 
 This what does SGD look like question changes again; so maybe by not existing it also means that new energy isn't wasted unnecessarily when an old or existing solution is already waiting for you to be reused/recycled -- we can do that with ideas, not just materials. And we can do it with our own work.
+
+![LayerCake of Sustainability?](https://jubilee-live.flickr.com/4024/4444250413_6e031cf777_o.jpg)
+
+It did connect me with some interesting people, like Architecture for Humanity...
+
+![Buildings in Haiti](https://jubilee-live.flickr.com/4066/4286706123_e0e9764b3a_o.jpg)
+![Hugh Manatee](http://kristian.bjornard.com/sites/kristian.bjornard.com/files/imagecache/portfolio-work-giant/designwork/illus/main/hughmanatee1.png)
 
 ## Urbanite
 
@@ -220,4 +252,44 @@ Design has helped to change and shape the world (for better or for worse) in gig
 
 ## Links to go through!?
 - https://www.flickr.com/photos/bjornmeansbear/albums/72157649677648318/page1/
+- https://www.flickr.com/photos/bjornmeansbear/2451743443/in/album-72157604887213984/
+- https://www.flickr.com/photos/bjornmeansbear/2451742965/in/album-72157604887213984/
+- https://www.flickr.com/photos/bjornmeansbear/albums/72157604965138356
+- https://www.flickr.com/photos/bjornmeansbear/4423575544/in/album-72157623006302347/
+- https://www.flickr.com/photos/bjornmeansbear/4422382987/in/album-72157623006302347/
+- https://www.flickr.com/photos/bjornmeansbear/4460068485/in/album-72157623006302347/
+- https://www.flickr.com/photos/bjornmeansbear/4460068589/in/album-72157623006302347/
+- https://www.flickr.com/photos/bjornmeansbear/4460848384/in/album-72157623006302347/
+- https://www.flickr.com/photos/bjornmeansbear/4460848476/in/album-72157623006302347/
+- https://www.flickr.com/photos/bjornmeansbear/4472266444/in/album-72157623006302347/
+- https://www.flickr.com/photos/bjornmeansbear/4496058204/in/album-72157623006302347/
+- https://www.flickr.com/photos/bjornmeansbear/4348324220/in/album-72157623006302347/
+- https://www.flickr.com/photos/bjornmeansbear/4350831436/in/album-72157623006302347/
+- https://www.flickr.com/photos/bjornmeansbear/4366731371/in/album-72157623006302347/
+- https://www.flickr.com/photos/bjornmeansbear/4400767912/in/album-72157623006302347/
+- https://www.flickr.com/photos/bjornmeansbear/4395351303/in/album-72157623006302347/
+- https://www.flickr.com/photos/bjornmeansbear/4404112809/in/album-72157623006302347/
+- https://www.flickr.com/photos/bjornmeansbear/4402691839/in/album-72157623006302347/
+- https://www.flickr.com/photos/bjornmeansbear/4408899075/in/album-72157623006302347/
+- https://www.flickr.com/photos/bjornmeansbear/4522122781/in/album-72157623006302347/
+- https://www.flickr.com/photos/bjornmeansbear/4573030477/in/album-72157623006302347/
+- https://www.flickr.com/photos/bjornmeansbear/4600631024/in/album-72157623006302347/
+- https://www.flickr.com/photos/bjornmeansbear/4682707490/in/album-72157623006302347/
+- https://www.flickr.com/photos/bjornmeansbear/5160115902/in/album-72157623006302347/
+- https://www.flickr.com/photos/bjornmeansbear/4708304248/in/album-72157623006302347/
+- https://www.flickr.com/photos/bjornmeansbear/4727475559/in/album-72157623006302347/
+- https://www.flickr.com/photos/bjornmeansbear/4799977318/in/album-72157623006302347/
+- https://www.flickr.com/photos/bjornmeansbear/4813888123/in/album-72157623006302347/
+- https://www.flickr.com/photos/bjornmeansbear/4813156931/in/album-72157623006302347/
+- https://www.flickr.com/photos/bjornmeansbear/4857362271/in/album-72157623006302347/
+- https://www.flickr.com/photos/bjornmeansbear/4867127078/in/album-72157623006302347/
+- https://www.flickr.com/photos/bjornmeansbear/5096091427/in/album-72157623006302347/
+- https://www.flickr.com/photos/bjornmeansbear/5114826764/in/album-72157623006302347/
+- https://www.flickr.com/photos/bjornmeansbear/5114225349/in/album-72157623006302347/
+- https://www.flickr.com/photos/bjornmeansbear/5159758391/in/album-72157623006302347/
+- https://www.flickr.com/photos/bjornmeansbear/5169011911/in/album-72157623006302347/
+- https://www.flickr.com/photos/bjornmeansbear/5171222300/in/album-72157623006302347/
+- https://www.flickr.com/photos/bjornmeansbear/5301084326/in/album-72157623006302347/
+- https://www.flickr.com/photos/bjornmeansbear/5305778352/in/album-72157623006302347/
+- https://www.flickr.com/photos/bjornmeansbear/5308419215/in/album-72157623006302347/
 
