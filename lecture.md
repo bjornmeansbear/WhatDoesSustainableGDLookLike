@@ -47,7 +47,7 @@ And via those projects I came to actually phrase the question: what does sustain
 
 ## What does sustainable graphic design look like?
 
-https://jubilee-live.flickr.com/2789/4426654518_43caa7cd48_o.jpg
+![What Does SGD look like?](https://jubilee-live.flickr.com/2789/4426654518_43caa7cd48_o.jpg)
 
 Posing this question to myself, I came up with sort of 4 main answers:
 1. It looks the same  
