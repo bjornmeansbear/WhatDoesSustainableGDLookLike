@@ -3,6 +3,8 @@
 
 This is a question that has no real answer; but I have many avenues of exploration whcih attempt to provide answers... bear with me.
 
+I'm trying to think about this from the frame of "what do you want to sustain" and then how your professional practice actually helps do that/visualize that...
+
 ## Beginnings.
 
 In 2006 I found myself working with a group of activists, web developers and entrepeneurs. We wanted to make and sell biodiesel, convert old disesel to run on waste vegetable oil, educate the public about weening off fossil fuels. It turned out that many of the people and orgs we partnered with to promote biodiesel and bicycling and the like were in need of web and communication design services. So we also built websites and started working on print graphics and identities and the like. 
@@ -111,24 +113,69 @@ This fit into some ideas from my principles after all... Durability? Entropy? Sy
 And then I did reuse some of these ideas, something becomes a future book cover, something becomes a future ad for something else, something becomes a layout in a magazine, an image gets reused...
 
 [OOKB design patterns?]
+![Type, Colors, Images](https://jubilee-live.flickr.com/8701/16966461297_fdc6d1a163_o.jpg)
 
 I even end up turning these ideas into class projects; all the presentations I've done in the last 8 years have used the same base templates and folder of images...
 
+This what does SGD look like question changes again; so maybe by not existing it also means that new energy isn't wasted unnecessarily when an old or existing solution is already waiting for you to be reused/recycled -- we can do that with ideas, not just materials. And we can do it with our own work.
+
 ## Urbanite
 
-## The Contemporary / Sue Spaid
+As a sidenote, I did end up working with a pretty cool Baltimore magazine for a while. As the designer at the urbanite; which focused on stories of import to Baltimore city -- political stories; social stories; environmental stories -- I felt like graphic designing that magazine, even if it didn't look particualrly special or different or innovative was sustainable; it was helping sustain ideas that hoped to improve racial, social, urban, and environmental situations in our area. That felt right. It seemed like a way that my designing visualized what I wanted to sustain… even if it did "look the same" and the materials weren't better.
 
 ## Green Acres?
+I also found myself working with an art museum; the contemporary museum. At the time they had a brand new curator that was all about doing things with as few resources as possible. (partially because she wanted to maximize what they could do; but also cause they were mostly broke).
+
+This led to a lot of inventive solutions design wise... But Sue's interest has been eco-art for a long time. So I also got to work on a lot of catalogs and such that were about environmental art work -- art and artists dealing with social and einvironmental issues. 
+
+And then there was this cool show that was about artists using farming as their main practice. Green Acres.
+
+![Green Acres Cover & Stack](https://www.ookb.co/img/ex/greenacres.jpg)
+
+For the book I really thought about 1. how could the design of this be about farming? and 2. what's the best way we can make it? So the page layout tried to reference the idea of commericial farming -- broken into these perfect squares; the type would end in perfect columns creating weird spaces that would then get decorated with farming graphics; sort of how land doesn't quite get used perfectly in commercial endevaros cause irrigation can't happen or its too strange a shape for a big combine to drive over/around... anyway, I was intending it to be kind of a counterpoint to the content, but still derived from "nature" in an interesting way...
+
+And then we printed the book on demand -- so only the amount you need gets printed; and its easy to print more. The printer was into helping make it as "sustainable" as possible, so its got vegetable wax laser toner and high recycled content paper...
+
+But it was back to being "the same" graphic design mostly; but content wise, it really felt like I was using design to sustain what I believed in
+
+## Re-runs
+In the spirit of recycling and whatever else... I go back to this design-a-day thing a couple years later.
+
+https://www.flickr.com/photos/bjornmeansbear/albums/72157649677648318
+
+This time, its more about using graphic designing to really help explain what I'm struggling with. This becomes some mini design essays that play out in spreads/screens/slides instead of written pages. A design comic book almost? its also trying to show this evolution, new ideas or explanations overlay the previous to show how a slide gets to be what/where it is...
+
+Is this sustainable graphic design? its using all my pre-defined styles and font choices and imagery and the like... 
+
+At this point I also start teaching full time. My practice drops off. I'm still doing the occasional identity or magazine or whatever, but I start getting way more serious about asking clients if they're into the things I say I'm into -- environmentally positive solutions; not just less bad. Can we not do the project they are asking about and find some more immaterial solution? Do you really need to re-brand your institution/company??? I find that I don't often win proposals anymore... 
 
 ## Ecovention Europe?
 
+This reuse thing really coallesces when Sue asks me to do another book with her
+
+## Free/Libre Open Source
+
 ## What else???
+
+## A Conclusion?
+
+So, here I am now, stuck in this position where I teach designers to design; but sort of don't think its okay to make stuff in most of the ways designers have traditionally made stuff and for the clients designers traditionally would have been hired by. I guess my new realization; my new way of trying to use design in the way that it sustains what I believe is that design is like writing? everyone should learn about designing; its a way of communicating, a way of describing our thoughts to others. It should be turned onto every situation -- every human situation is a communication moment; so everyone could be improved with design?
+
+I'm also sort of thinking that the things I want to sustain are hard to do with just a poster or a visual aesthetic. And infact a singular aesthetic is sort of the antithesis of design that respects all cultures; all people; all objects; all animals; all plants. Those are things with diverse aesthetics and needs and materials; they can't all be served with one overarching formal set of solutions (at least not exactly). Again, maybe returning to language is good -- english as a language is capable of describing a lot of different view points and sub cultures. Some of the rules for use stay the same; but some change drastically based on location, class, etc. A sustainable design should too. And it should be able to evolve and adapt as things change -- time, space, place. 
+
+It also has to be a design that doesn't priveledge whiteness; euro-centricness; etc. And again that means that it can't just look the same as previous designs... even in the measure of eco-friendliness or innovative ness, those judgements I made in the past were from my white, euro, male centric place... were even my ideas of dematerilization??? fuck,
+
+So, I guess I both more and less am sure about what SGD is?
+
+the end????
+
+++++++++++++++++++++++++++++++++++++++++++++++++++
 
 ## To get to somehow:
 
 What signs on substrates are "sustainable" and which aren't? Does it matter about the signs the substrates themselves? is it design that supports/communicates "sustainability" regardless?
 
-Something like a first things first manifesto; but for climate change related ethics...
+Something like a first things first manifesto; but for climate change related ethics... something like the Gropius bauhaus manifesto, but for respectful design principles?
 
 John Ehrenfeld states in the book Flourishing that "the key to do something about sustainability is that you first have to say what it is you want to sustain." To define sustainable graphic design we must first define what it is we are sustaining. Ehrenfeld wants to sustain that "all humans and other life should flourish." (Pg 23 in flourishing). Using Ehrenfeld's thinking, Sustainable graphic design is then design made for clients that believe all life should flourish; design made to promote messages about sustainability-as-flourishing; and design made with materials and processes that promote and sustain the state of all life flourishing too.
 
