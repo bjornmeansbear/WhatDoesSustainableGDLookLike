@@ -304,4 +304,10 @@ Design has helped to change and shape the world (for better or for worse) in gig
 - https://www.flickr.com/photos/bjornmeansbear/5301084326/in/album-72157623006302347/
 - https://www.flickr.com/photos/bjornmeansbear/5305778352/in/album-72157623006302347/
 - https://www.flickr.com/photos/bjornmeansbear/5308419215/in/album-72157623006302347/
+- http://www.thesustainabilitist.com/visuals.html
+- http://kristian.bjornard.com/
+- http://kristian.bjornard.com/work/misc/sustainabilitist-principles.html
+- http://kristian.bjornard.com/work/print/principles-sustainability-where-they-come.html
+- http://kristian.bjornard.com/work/print/science-zine.html
+- https://www.instagram.com/bjornmeansbear/
 
