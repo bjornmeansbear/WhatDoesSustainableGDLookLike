@@ -33,7 +33,15 @@ At some point, that started to frustrate me; and I thought that maybe a graduate
 
 I did a lot of different kinds of work -- web, print, more conceptual exercises.
 
-[what can I show?]
+(Systems Ezplorations)
+
+- ![All the bands in my itunes](https://jubilee-live.flickr.com/3496/3226480213_660a3020ef_o.jpg)
+- ![All the bands in my itunes](https://jubilee-live.flickr.com/3471/3245599803_bb913b2d22_o.jpg)
+- ![Another band experiment](https://jubilee-live.flickr.com/3356/3245599823_539c363b97_o.jpg)
+- ![The Bands](https://jubilee-live.flickr.com/3329/3226375262_875c82f5ab_o.jpg)
+- ![Bands that end with S](https://jubilee-live.flickr.com/3502/3277457670_570c674577_o.jpg)
+- ![Band names containing Z](https://jubilee-live.flickr.com/3320/3277457632_5f470df707_o.jpg)
+
 
 A lot of my work dealt with systems, with using simple programming to help generate or sketch solutions, to reducing inputs but maximizing outputs... And then other things directly dealt with sustainability. At first these things stayed in the superficial category -- either directly being about visualizing sustainability concepts
 
@@ -200,4 +208,8 @@ Nature does not typically solve design problems with singular solutions. There a
 
 Design has helped to change and shape the world (for better or for worse) in gigantic, important ways. Whatever happens next, the world will not be like it is today -- either because we do something to make it better for the welfare of all life; or because we just keep on keeping on as is and destroy all life.
 
+++++++++++++++++++++
+
+## Links to go through!?
+- https://www.flickr.com/photos/bjornmeansbear/albums/72157649677648318/page1/
 
