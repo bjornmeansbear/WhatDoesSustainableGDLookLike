@@ -19,7 +19,9 @@ So, we did other similar projects, but mainly we were working on websites. So I 
 
 We were also sharing a studio with a photographer that had some giant epson printers, which weren't super common at the time, so we were designing posters we thought people might be into promoting our various ideas and offerings. The one's I designed specifically as "green" or "sustainable" ones I still look back on with naive enjkoyment... (not quite the right words)
 
-[SE Posters]
+- ![Think Green](http://kristian.bjornard.com/sites/kristian.bjornard.com/files/imagecache/portfolio-work-giant/designwork/print/main/suit_kedit.png)
+- ![Global Warming is so Uncool](http://kristian.bjornard.com/sites/kristian.bjornard.com/files/imagecache/portfolio-work-giant/designwork/print/main/poster-global_warming_is_uncool.gif)
+- ![The Other Side Does Not Have To Be Greener](https://jubilee-live.flickr.com/1135/764323867_12a1df2455_o.jpg)
 
 So, That's where I started with my "sustainable designing" -- it was 2006 and 2007 and I was 1. using my visual form giving skills to try and make messages more "beautiful" and "digestable"; and 2. doing process/paper research to pick the "least bad" options for physical object output.
 
@@ -99,6 +101,12 @@ I ended up writing this sort of manifesto; and through refining my ideas down to
 [Sustainabilitist Principles]
 
 And, I really felt like I had something finally. This one piece was a real culmination of all my ideas and thinking into one peice that came together for this exhibition... and then just went back to its consituent parts afterward. Hurray.
+
+I did manage to make a business card that utilized this thinking as well:
+
+![Business card](http://kristian.bjornard.com/sites/kristian.bjornard.com/files/imagecache/portfolio-work-giant/designwork/identity/main/Stamped_cards.jpg)
+
+I would stamp my info over someone elses...
 
 ## Next steps?
 
