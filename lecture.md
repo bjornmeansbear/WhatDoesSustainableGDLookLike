@@ -84,9 +84,45 @@ I had been trying to visualize the interconnections between the books and essays
 
 This led me to do more writing and more cataloging and organzing of the objects of my research...
 
-I ended up writing this sort of manifesto; and then created this sculpture as poster...
+I ended up writing this sort of manifesto; and through refining my ideas down to a handful of, well, what was trying to be precise aphorisms, started thinking about what had inspired these ideas/ideals. So I was then thinking, well here are principles, and here are the books they came from... that idea through a few iterations and with the lens of "if design should not exist, then design should have no footprint" led me to making an installation instead of a book or a poster or whatever... so, that was this...
 
 [Sustainabilitist Principles]
+
+And, I really felt like I had something finally. This one piece was a real culmination of all my ideas and thinking into one peice that came together for this exhibition... and then just went back to its consituent parts afterward. Hurray.
+
+## Next steps?
+
+I get to the end of grad school, high on my ingenous success... and then, fuck, I don't have any outlets for these ideas anymore -- I mean, I go back to doing client projects like magazine and websites. And while I keep trying to make them materially better, or offset their energy with renewable energy, or utilize free cultural resources so as much is reuseable as possible, it just isn't enough. 
+
+Oh man, this was a bummer. I thought I had figured it all out. But then, I couldn't really utilize this "design is dematerialized" idealism for much...
+
+So I turned back to the "sustainable design is the same" kind of stuff...
+
+[2010 design-a-days?]
+
+I made a lot of posters, and a lot of superficial one offs. At first it was just to try to continue exploring some of the ideas even in a small way... but I realized that maybe I could find other ways to make design not exist.
+
+So, I'm making all these things and I realize -- I'm creating my own design vernacular; I can use these to test design aesthetics, and hone a set of processes and formats and fonts and colors and image references that I can forever reuse and return to.
+
+It became sort of an exercise in Entropy -- if there is limited energy (and limited time, etc.); how can I get better at rapidly producing things? what can I figure out that I know works well enough and thus not have to change it unless there is a real reason.
+
+This fit into some ideas from my principles after all... Durability? Entropy? Systems? Slowness? Agility? Constraint? Brand's Vernacular?
+
+And then I did reuse some of these ideas, something becomes a future book cover, something becomes a future ad for something else, something becomes a layout in a magazine, an image gets reused...
+
+[OOKB design patterns?]
+
+I even end up turning these ideas into class projects; all the presentations I've done in the last 8 years have used the same base templates and folder of images...
+
+## Urbanite
+
+## The Contemporary / Sue Spaid
+
+## Green Acres?
+
+## Ecovention Europe?
+
+## What else???
 
 ## To get to somehow:
 
